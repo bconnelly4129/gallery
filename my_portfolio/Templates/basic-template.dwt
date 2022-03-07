@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/hhj7jdw.css">
+	<link rel="stylesheet" href="https://use.typekit.net/hhj7jdw.css">
+<link rel="stylesheet" href="https://use.typekit.net/hhj7jdw.css">
+	<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	  <li> 
+		<a href="../pages/about.html">About</a>
+	  </li>
+	  <li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	
+	</nav>
+  <!--Begin floated elements-->
+  <aside><h3>I am a high school student, swimmer, and photographer</h3>
+	<h3>Join me as i figure out my life and future piece by piece</h3>
+    <h3>by Brooke</h3>
+  </aside>
+		  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+	
+	  
+	<h1>Page Title</h1>
+</main>
+	<!-- TemplateEndEditable -->
+  <!--end floated elements-->
+  
+<footer></footer>
+</div>
+</body>
+</html>
